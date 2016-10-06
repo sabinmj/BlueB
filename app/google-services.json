@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1037098170825",
+    "firebase_url": "https://blueb-62289.firebaseio.com",
+    "project_id": "blueb-62289",
+    "storage_bucket": "blueb-62289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037098170825:android:8fea259c3243dd16",
+        "android_client_info": {
+          "package_name": "com.example.sabinmj.blueb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037098170825-qjpaki5v5go1p510uv32sjkn5q3chjqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFmjCoFagggy6uYrmWt2ZHOV0Z7yfHfDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
