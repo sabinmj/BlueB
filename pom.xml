@@ -30,7 +30,6 @@
             </plugin>
         </plugins>
     </build>
-    <packaging>jar</packaging>
 
     <name>Sample test library</name>
     <description>This is a sample library for a tutorial about
