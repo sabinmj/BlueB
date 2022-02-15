@@ -131,4 +131,15 @@
     </dependencies>
 
 
+    <proxies>
+        <proxy>
+            <id>optional</id>
+            <active>true</active>
+            <protocol>http</protocol>
+            <host>proxyserver.company.com</host>
+            <port>8080</port>
+            <nonProxyHosts>local.net|some.host.com</nonProxyHosts>
+        </proxy>
+    </proxies>
+
 </project>
